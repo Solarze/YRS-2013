@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <atom:link href="http://open.live.bbc.co.uk/weather/feeds/en/2655603/observations.rss" rel="self" type="application/rss+xml" />
+    <title>BBC Weather - Observations for  Birmingham, United Kingdom</title>
+    <link>http://www.bbc.co.uk/weather/2655603</link>
+    <description>Latest observations for Birmingham from BBC Weather, including weather, temperature and wind information</description>
+    <language>en</language>
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://www.bbc.co.uk/terms/additional_rss.shtml for more details</copyright>
+    <pubDate>Tue, 06 Aug 2013 09:56:24 +0100</pubDate>
+    <item>
+      <title>Tuesday - 09:00 BST: Sunny, 15°C (59°F)</title>
+      <link>http://www.bbc.co.uk/weather/2655603</link>
+      <description>Temperature: 15°C (59°F), Wind Direction: Westerly, Wind Speed: 5mph, Humidity: 72%, Pressure: 1017mb, Rising, Visibility: Very Good</description>
+      <pubDate>Tue, 06 Aug 2013 09:56:24 +0100</pubDate>
+      <guid isPermaLink="false">http://www.bbc.co.uk/weather/2655603-2013-08-06T09:56:24.000+01:00</guid>
+      <georss:point>52.46667 -1.91667</georss:point>
+    </item>
+  </channel>
+</rss>
